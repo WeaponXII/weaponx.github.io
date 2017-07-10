@@ -22,7 +22,7 @@ github_username:  weaponxii
 repository: "weaponxii/weaponxii.github.io"
 # Build settings
 markdown: kramdown
-theme: architect
+theme: jekyll-theme-architect
 gist: 
     noscript : false
 plugins_dir:
