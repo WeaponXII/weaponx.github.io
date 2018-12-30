@@ -1,2 +1,2 @@
 # weaponxii.github.io
-My website
+Blog experiment with ruby static site generators
