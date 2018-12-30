@@ -1,2 +1,2 @@
 # weaponxii.github.io
-Blog experiment with ruby static site generators
+Blog experiment with the ruby static site generator Jekyll
